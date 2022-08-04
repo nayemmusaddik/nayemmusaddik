@@ -9,7 +9,7 @@
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
 
-✔️ I am **Nayem Musaddik**, currently working as an Engineer, Core Developmnet at *Ding*. <br>
+✔️ I am **Nayem Musaddik**, currently working as an Engineer, Core Developmnet at <a href="https://ding.com">Ding</a>. <br>
 
 ✔️ I am interested in software development. I also enjoy problem sovling. <br>
 
